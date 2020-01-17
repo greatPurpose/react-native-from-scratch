@@ -2,12 +2,6 @@
 
 > Clean and minimalist React Native template for a quick start with TypeScript.
 
-## :star: Features
-
-- Elegant usage directly within the [React Native CLI](https://github.com/react-native-community/cli)
-- Consistent with the default React Native template
-- Minimal additional dependencies
-
 ### `react-native@0.61.0` or higher
 
 ```sh
